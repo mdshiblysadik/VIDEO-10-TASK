@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+div.main{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+}
+div.secondmain{
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+}
+p{
+    text-align: center;
+}
